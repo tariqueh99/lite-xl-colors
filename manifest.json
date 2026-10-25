@@ -423,6 +423,17 @@
          "version" : "0.1"
       },
       {
+         "id" : "one_candy",
+         "mod_version" : "3.0.0",
+         "name" : "one_candy",
+         "path" : "colors/one_candy.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "onedark",
          "mod_version" : "3.0.0",
          "name" : "onedark",
